@@ -1,0 +1,11 @@
+{
+    "cattype01":[
+        {"temperment": "Nice", "scientificName": "Longhair", "examples":"Main Coon, Birman, Persian", "picture":"assets/images/LHC.jpg"}
+    ],
+    "cattype02":[
+        {"temperment": "Moderate", "scientificName": "Shorthair", "examples":"American, Bombay, British", "picture":"assets/images/SHC.jpg"}
+    ],
+    "cattype03":[
+        {"temperment": "Terrible", "scientificName": "Hairless", "examples":"Sphynx", "picture":"assets/images/BHC.jpg"}
+    ]
+}

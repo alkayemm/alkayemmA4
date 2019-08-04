@@ -1,0 +1,11 @@
+{
+    "dogtype01":[
+        {"temperment": "Nice", "scientificName": "Longhair", "examples":"Collie, Shih Tzu, Lhasa Apso", "picture":"assets/images/LHD.jpg"}
+    ],
+    "dogtype02":[
+        {"temperment": "Moderate", "scientificName": "Shorthair", "examples":"Dutch Shepherd, Beauceron, Rough Collie", "picture":"assets/images/SHD.jpg"}
+    ],
+    "dogtype03":[
+        {"temperment": "Terrible", "scientificName": "Hairless", "examples":"Chinese Crested, Peruvian Inca Orchid, Thai ridgeback", "picture":"assets/images/BHD.jpg"}
+    ]
+}
